@@ -30,7 +30,7 @@ Ce repo sert à planifier les menus de la semaine pour la famille.
 - Planifier du lundi au dimanche
 - En semaine : dîner uniquement (toute la famille), sauf le mercredi où on prévoit aussi le déjeuner (pas d'école)
 - Le week-end : déjeuner et dîner (toute la famille)
-- Indiquer entrée (optionnelle), plat, accompagnement, dessert
+- Plats de résistance uniquement (pas de desserts)
 - Générer une liste de courses associée, regroupée par rayon (fruits/légumes, boucherie/poissonnerie, crèmerie, épicerie, surgelés, etc.)
 
 ## Préférences famille

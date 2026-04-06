@@ -17,6 +17,7 @@
 - Pas obligatoire d'avoir des féculents à chaque dîner
 - On peut différencier les plats adultes / enfants quand c'est simple
 - La ratatouille avec du riz sans protéine, ça passe pour un soir
+- On ne planifie que les plats de résistance, pas les desserts
 
 ## Plats validés
 - Saumon crème légère + légumes
