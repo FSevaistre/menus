@@ -23,6 +23,7 @@
 - Favoriser les produits pas chers
 - Prendre les grosses quantités quand le prix au kg/L est meilleur
 - Pas de friteuse, frites au four uniquement
+- Légumes toujours FRAIS (jamais surgelés sauf haricots verts si pas dispo frais), prévenir si pas trouvé en frais
 
 ## Plats validés
 - Saumon crème légère + légumes
