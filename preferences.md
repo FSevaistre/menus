@@ -3,6 +3,7 @@
 ## Adultes
 - François n'aime pas les brocolis (les enfants oui)
 - Les adultes apprécient les poireaux
+- JAMAIS de beurre doux, uniquement du demi-sel
 
 ## Enfants
 - Pas de soupe (ils ne voudront pas)
@@ -18,6 +19,10 @@
 - On peut différencier les plats adultes / enfants quand c'est simple
 - La ratatouille avec du riz sans protéine, ça passe pour un soir
 - On ne planifie que les plats de résistance, pas les desserts
+- Le riz doit toujours être du basmati
+- Favoriser les produits pas chers
+- Prendre les grosses quantités quand le prix au kg/L est meilleur
+- Pas de friteuse, frites au four uniquement
 
 ## Plats validés
 - Saumon crème légère + légumes
