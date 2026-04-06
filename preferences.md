@@ -27,6 +27,7 @@
 - Haricots verts : Cassegrain en boîte (extra-fins cueillis main), 2 boîtes de 390g pour la famille
 - Lessive : Le Chat de préférence
 - Gnocchis : Lustucru Extra Fromage
+- Bière : Pelforth Blonde pack 20x
 
 ## Plats validés
 - Saumon crème légère + légumes
