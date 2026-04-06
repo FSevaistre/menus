@@ -27,9 +27,15 @@ Ce repo sert à planifier les menus de la semaine pour la famille.
 
 ## Format attendu
 
-- Planifier du lundi au dimanche, déjeuner et dîner (les enfants déjeunent à la cantine en semaine, donc le déjeuner semaine = 2 adultes uniquement)
+- Planifier du lundi au dimanche
+- En semaine : dîner uniquement (toute la famille), sauf le mercredi où on prévoit aussi le déjeuner (pas d'école)
+- Le week-end : déjeuner et dîner (toute la famille)
 - Indiquer entrée (optionnelle), plat, accompagnement, dessert
 - Générer une liste de courses associée, regroupée par rayon (fruits/légumes, boucherie/poissonnerie, crèmerie, épicerie, surgelés, etc.)
+
+## Préférences famille
+
+Voir `preferences.md` pour les goûts, contraintes et plats validés. Ce fichier est mis à jour au fil des semaines.
 
 ## Format des fichiers
 
